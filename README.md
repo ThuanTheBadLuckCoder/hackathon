@@ -1,4 +1,4 @@
-# README
+# README CodeFest
 ![image](https://github.com/ThuanTheBadLuckCoder/hackathon/assets/102339067/b2f195bb-4ba4-47a9-84d8-7560b10e55b5)
 
 ## Overview
