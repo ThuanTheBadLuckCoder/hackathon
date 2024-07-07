@@ -95,9 +95,4 @@ NFTs representing different sponsorship packages (Gold, Silver, Bronze) with ass
 
 ---
 
-Thank you for choosing our platform! We look forward to revolutionizing the sponsorship process together. For any inquiries or support, please contact us at [support email/contact information].
-EOL
-git add README.md
-git commit -m "Add README file with project overview"
-git remote add origin https://github.com/yourusername/your-repo-name.git
-git push -u origin master
+
